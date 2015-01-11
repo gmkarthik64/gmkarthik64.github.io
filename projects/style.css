@@ -1,0 +1,25 @@
+ul {
+min-width:1050px;
+}
+td{
+padding:10px;
+background-color: #e3e3e3; 
+vertical-align: top;
+min-width: 320px;
+width: 20%;
+}
+table{
+border-collapse: separate;
+border-spacing: 10px 10px;
+}
+.divlink{
+text-decoration: none;
+color: black;
+}
+.website{
+padding-bottom:2px;
+}
+div:hover {
+background-color: silver;
+outline:5px solid silver;
+}
