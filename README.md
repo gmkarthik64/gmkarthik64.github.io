@@ -1,2 +1,2 @@
-# gmkarthik64.github.io
+# karthikvemulapalli.com
 Karthik Vemulapalli's Website
